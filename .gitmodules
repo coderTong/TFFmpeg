@@ -1,0 +1,12 @@
+[submodule "tav_fdkaac_iOS_static_libs"]
+	path = tav_fdkaac_iOS_static_libs
+	url = https://github.com/coderTong/tav_fdkaac_iOS_static_libs.git
+[submodule "tav_ffmpeg_iOS_static_libs"]
+	path = tav_ffmpeg_iOS_static_libs
+	url = https://github.com/coderTong/tav_ffmpeg_iOS_static_libs.git
+[submodule "tav_lame_iOS_static_libs"]
+	path = tav_lame_iOS_static_libs
+	url = https://github.com/coderTong/tav_lame_iOS_static_libs.git
+[submodule "tav_x264_iOS_static_libs"]
+	path = tav_x264_iOS_static_libs
+	url = https://github.com/coderTong/tav_x264_iOS_static_libs.git
